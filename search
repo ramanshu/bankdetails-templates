@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block meta %}{% include "meta.html" %}{% endblock%}
+{% block title %}Test title{% endblock%}
+{% block shortcut %}{% include "shortcut.html" %}{% endblock%}
+{% block clientlibs_css %}{% include "clientlibs_css.html" %}{% endblock%}
+{% block body %}
+<div class = >
+
+
+{% endblock%}
+{% block clientlibs_js %}{% include "clientlibs_js.html" %}{% endblock%}
